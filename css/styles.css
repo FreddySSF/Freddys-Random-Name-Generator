@@ -1,0 +1,28 @@
+body {
+    background-color: darkolivegreen;
+}
+
+h1 {
+    color: #002600;
+}
+
+h2 {
+    color: #002600;
+}
+
+h3 {
+    color: #002600;
+}
+
+.btn {
+    color: #002600;
+}
+
+.textStyle {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+
+.textStyleTwo {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
